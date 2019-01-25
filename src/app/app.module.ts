@@ -15,6 +15,7 @@ import { ShowResultPage } from '../pages/show-result/show-result';
   declarations: [
     MyApp,
     HomePage,
+    ShowResultPage
   ],
   imports: [
     BrowserModule,
